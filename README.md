@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨‍🎓 Computer enginee
 ----------------------
 
-🖥️ A 22-year-old software engineer with a deep interest in programming and web development, skilled in multiple programming languages such as Java, Python, and C#.
+🖥️ A 22-year-old software engineer with a deep interest in programming and web development, skilled in multiple programming languages such as Java, and C#.
 
 * ✉️  You can contact me at [Willy200522@gmail.com](mailto:Willy200522@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning React
 
 ### Skills
 
