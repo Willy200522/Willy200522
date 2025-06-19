@@ -1,30 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is WILLIAM LOAYZA
-======================================================================================================================================
+<h1 align="center">Hi! My name is William</h1>
 
-👨‍🎓 Computer enginee
-----------------------
-
-🖥️ A 22-year-old software engineer with a deep interest in programming and web development, skilled in multiple programming languages such as Java, and C#.
-
-* ✉️  You can contact me at [Willy200522@gmail.com](mailto:Willy200522@gmail.com)
-* 🧠  I'm learning React
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF06&center=true&vCenter=true&width=600&lines=I'm+Junior+developer,;Computer+Engineer+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93,;Active+Learner%2FResearcher"></a>
 </p>
 
+## <div align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Technologies</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vscode,java,ts&perline=14" /> <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,linux,git&perline=14" />
+  </a>
+</p>
 
-### Socials
+## <div align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px>  </picture> Contact w/ me</div>
+<div align="center">
+<a href="mailto:willy200522@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/williamloayza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/willy200522"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+</div>
 
-<p align="left"> <a href="https://www.github.com/Willy200522" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Willy200522" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<br>
 
-### Badges
+## <div align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 37px>  </picture> Github Stats</div>
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Willy200522&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
 
-<a href="http://www.github.com/Willy200522"><img src="https://github-readme-stats.vercel.app/api?username=Willy200522&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Willy200522's GitHub stats" /></a>
+<td width="50%" align="center">
 
-<a href="https://github.com/Willy200522" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy200522&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willy200522&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f5&height=120&section=footer"/>
